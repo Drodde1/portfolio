@@ -34,7 +34,7 @@ p {
     border-radius: 8px;
     padding: 20px;
     margin: 40px auto;
-    width: 90%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
+    width: 60%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
     max-width: 400px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     background-color: rgba(0, 0, 0, 0.411);
@@ -50,7 +50,7 @@ p {
 }
 
 .card a{
-    color: aqua;
+    color:aqua
 }
 
 .card-2{
@@ -58,7 +58,7 @@ p {
     border-radius: 8px;
     padding: 20px;
     margin: 40px auto;
-    width: 90%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
+    width: 60%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
     max-width: 400px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     background-color: rgba(0, 0, 0, 0.411);
@@ -78,7 +78,7 @@ p {
     border-radius: 8px;
     padding: 20px;
     margin: 40px auto;
-    width: 90%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
+    width: 60%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
     max-width: 400px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     background-color: rgba(0, 0, 0, 0.411);
@@ -98,7 +98,7 @@ p {
     border-radius: 8px;
     padding: 20px;
     margin: 40px auto;
-    width: 90%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
+    width: 60%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
     max-width: 400px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     background-color: rgba(0, 0, 0, 0.411);
@@ -118,7 +118,7 @@ p {
     border-radius: 8px;
     padding: 20px;
     margin: 40px auto;
-    width: 90%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
+    width: 60%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
     max-width: 400px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     background-color: rgba(0, 0, 0, 0.411);
