@@ -12,11 +12,11 @@ h1, h2 {
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 35px;
 }
 
 h2 {
-    font-size: 25pt;
+    font-size: 30px;
     margin-bottom: 10px;
 }
 
@@ -43,7 +43,7 @@ p {
 .card img {
     width: 100%;
     height: auto;
-    max-width: 350px;
+    max-width: 310px;
     display: block;
     margin: 0 auto;
     border-radius: 100%; 
@@ -87,7 +87,7 @@ p {
 .card-3 img{
     width: 100%;
     height: auto;
-    max-width: 350px;
+    max-width: 300px;
     display: block;
     margin: 0 auto;
     border-radius: 10%; 
