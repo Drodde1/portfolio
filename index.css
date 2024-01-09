@@ -12,18 +12,18 @@ h1, h2 {
 }
 
 h1 {
-    font-size: 45pt;
+    font-size: 3em;
 }
 
 h2 {
-    font-size: 30pt;
+    font-size: 25pt;
     margin-bottom: 10px;
 }
 
 /* Estilos para parágrafos (p) */
 p {
     text-align: center;
-    font-size: 17pt;
+    font-size: 15pt;
     margin: 0 auto; /* Isso centraliza o parágrafo horizontalmente */
     max-width: 600px; /* Substitua 600px pelo valor desejado */
 }
@@ -35,7 +35,7 @@ p {
     padding: 20px;
     margin: 40px auto;
     width: 60%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
-    max-width: 400px; /* Limita a largura máxima */
+    max-width: 360px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     background-color: rgba(0, 0, 0, 0.411);
 }
@@ -43,7 +43,7 @@ p {
 .card img {
     width: 100%;
     height: auto;
-    max-width: 400px;
+    max-width: 350px;
     display: block;
     margin: 0 auto;
     border-radius: 100%; 
@@ -59,7 +59,7 @@ p {
     padding: 20px;
     margin: 40px auto;
     width: 60%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
-    max-width: 400px; /* Limita a largura máxima */
+    max-width: 360px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     background-color: rgba(0, 0, 0, 0.411);
 }
@@ -67,7 +67,7 @@ p {
 .card-2 img {
     width: 100%;
     height: auto;
-    max-width: 400px;
+    max-width: 350px;
     display: block;
     margin: 0 auto;
     border-radius: 10%; 
@@ -79,7 +79,7 @@ p {
     padding: 20px;
     margin: 40px auto;
     width: 60%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
-    max-width: 400px; /* Limita a largura máxima */
+    max-width: 360px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     background-color: rgba(0, 0, 0, 0.411);
 }
@@ -87,7 +87,7 @@ p {
 .card-3 img{
     width: 100%;
     height: auto;
-    max-width: 400px;
+    max-width: 350px;
     display: block;
     margin: 0 auto;
     border-radius: 10%; 
@@ -99,7 +99,7 @@ p {
     padding: 20px;
     margin: 40px auto;
     width: 60%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
-    max-width: 400px; /* Limita a largura máxima */
+    max-width: 360px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     background-color: rgba(0, 0, 0, 0.411);
 }
@@ -119,7 +119,7 @@ p {
     padding: 20px;
     margin: 40px auto;
     width: 60%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
-    max-width: 400px; /* Limita a largura máxima */
+    max-width: 360px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     background-color: rgba(0, 0, 0, 0.411);
 }
@@ -127,7 +127,7 @@ p {
 .card-5 img{
     width: 100%;
     height: auto;
-    max-width: 400px;
+    max-width: 350px;
     display: block;
     margin: 0 auto;
     border-radius: 10%; 
