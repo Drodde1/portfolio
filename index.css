@@ -1,6 +1,6 @@
 /* Estilos globais */
 body {
-    background-color: rgb(70, 30, 30);
+    background-color: rgb(202, 58, 58);
     color: rgb(255, 255, 255);
     font-family: sans-serif;
     margin: 0;
@@ -37,7 +37,7 @@ p {
     width: 60%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
     max-width: 360px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-    background-color: rgba(0, 0, 0, 0.411);
+    background-color: rgba(0, 0, 0, 0.301);
 }
 
 .card img {
@@ -61,7 +61,7 @@ p {
     width: 60%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
     max-width: 360px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-    background-color: rgba(0, 0, 0, 0.411);
+    background-color: rgba(0, 0, 0, 0.301);
 }
 
 .card-2 img {
@@ -81,7 +81,7 @@ p {
     width: 60%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
     max-width: 360px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-    background-color: rgba(0, 0, 0, 0.411);
+    background-color: rgba(0, 0, 0, 0.301);
 }
 
 .card-3 img{
@@ -101,7 +101,7 @@ p {
     width: 60%; /* Use uma largura percentual para melhorar a adaptabilidade a dispositivos móveis */
     max-width: 360px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-    background-color: rgba(0, 0, 0, 0.411);
+    background-color: rgba(0, 0, 0, 0.301);
 }
 
 .card-5 img{
@@ -112,3 +112,4 @@ p {
     margin: 0 auto;
     border-radius: 5%; 
 }
+
