@@ -1,0 +1,210 @@
+h1
+{
+ color: rgb(255, 255, 255);
+ font-size: 45pt;
+ font-family: sans-serif;
+ text-align: center; /* Centralizar o Texto */
+ 
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 17pt;
+    margin: 0 auto; /* Isso centraliza o parágrafo horizontalmente */
+    max-width: 600px; /* Substitua 600px pelo valor desejado */
+}
+
+body{
+    background-color: rgb(70, 30, 30);
+}
+
+.card-1 p
+{
+    color: white;
+    margin-bottom: 10px;
+}
+
+.card-1
+{
+ border: 1px solid #ccc;
+ border-radius: 8px;
+ padding: 20px;
+ margin: 40px auto;
+ width: 400px;
+ box-shadow: 0 4px 8px rgba(red, green, blue, alpha);
+ background-color: rgba(0, 0, 0, 0.411);
+ 
+
+}
+
+.card-1 h2
+{
+    color: rgb(255, 255, 255);
+    font-size: 30pt;
+    font-family: sans-serif;
+    text-align: center; /* Centralizar o Texto */
+    margin-bottom: 10px;
+}
+
+.card-1 img
+{
+    width: 100%; /* Ajusta a largura da imagem para 100% da largura do contêiner pai */
+    height: auto; /* Mantém a proporção original da imagem */
+    max-width: 400px; /* Define uma largura máxima para a imagem */
+    display: block; /* Remove espaços extras abaixo da imagem */
+    margin: 0 auto; /* Centraliza a imagem horizontalmente */
+}
+
+.card-2
+{
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 40px auto;
+    width: 400px;
+    box-shadow: 0 4px 8px rgba(red, green, blue, alpha);
+    background-color: rgba(0, 0, 0, 0.411)
+
+}
+
+.card-2 img{
+    width: 200%; /* Ajusta a largura da imagem para 100% da largura do contêiner pai */
+    height: auto; /* Mantém a proporção original da imagem */
+    max-width: 350px; /* Define uma largura máxima para a imagem */
+    display: block; /* Remove espaços extras abaixo da imagem */
+    margin: 0 auto; /* Centraliza a imagem horizontalmente */
+}
+
+.card-2 h2{
+    color: rgb(255, 255, 255);
+    font-size: 30pt;
+    font-family: sans-serif;
+    text-align: center; /* Centralizar o Texto */
+    margin-bottom: 10px;
+}
+
+.card-3{
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 40px auto;
+    width: 500px;
+    box-shadow: 0 4px 8px rgba(red, green, blue, alpha);
+    background-color: rgba(0, 0, 0, 0.411)
+}
+
+.card-3 img{
+    width: 100%; /* Ajusta a largura da imagem para 100% da largura do contêiner pai */
+    height: auto; /* Mantém a proporção original da imagem */
+    max-width: 400px; /* Define uma largura máxima para a imagem */
+    display: block; /* Remove espaços extras abaixo da imagem */
+    margin: 0 auto; /* Centraliza a imagem horizontalmente */
+    border-radius: 100%;
+}
+
+.card-4{
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 40px auto;
+    width: 400px;
+    box-shadow: 0 4px 8px rgba(red, green, blue, alpha);
+    background-color: rgba(0, 0, 0, 0.411)
+}
+
+.card-4 h2{
+    color: rgb(255, 255, 255);
+    font-size: 30pt;
+    font-family: sans-serif;
+    text-align: center; /* Centralizar o Texto */
+    margin-bottom: 10px;
+}
+
+.card-4 img{
+    width: 50%; /* Ajusta a largura da imagem para 100% da largura do contêiner pai */
+    height: auto; /* Mantém a proporção original da imagem */
+    max-width: 100px; /* Define uma largura máxima para a imagem */
+    display: block; /* Remove espaços extras abaixo da imagem */
+    margin: 12px auto; /* Centraliza a imagem horizontalmente */
+}
+
+.card-5{
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 40px auto;
+    width: 400px;
+    box-shadow: 0 4px 8px rgba(red, green, blue, alpha);
+    background-color: rgba(0, 0, 0, 0.411)
+}
+
+.card-5 h2{
+    color: rgb(255, 255, 255);
+    font-size: 30pt;
+    font-family: sans-serif;
+    text-align: center; /* Centralizar o Texto */
+    margin-bottom: 10px;
+}
+
+.card-5 img{
+    width: 100%; /* Ajusta a largura da imagem para 100% da largura do contêiner pai */
+    height: auto; /* Mantém a proporção original da imagem */
+    max-width: 400px; /* Define uma largura máxima para a imagem */
+    display: block; /* Remove espaços extras abaixo da imagem */
+    margin: 0 auto; /* Centraliza a imagem horizontalmente */
+}
+
+#imagem-1, #imagem-2{
+    display: flex;
+}
+
+#imagem{
+    display: flex;
+    flex-direction: row;
+}
+
+.card-6{
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 40px auto;
+    width: 400px;
+    box-shadow: 0 4px 8px rgba(red, green, blue, alpha);
+    background-color: rgba(0, 0, 0, 0.411)
+}
+
+.card-6 h2{
+    color: rgb(255, 255, 255);
+    font-size: 30pt;
+    font-family: sans-serif;
+    text-align: center; /* Centralizar o Texto */
+    margin-bottom: 10px;
+}
+
+.card-7{
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 40px auto;
+    width: 400px;
+    box-shadow: 0 4px 8px rgba(red, green, blue, alpha);
+    background-color: rgba(0, 0, 0, 0.411)
+}
+
+.card-7 h2{
+    color: rgb(255, 255, 255);
+    font-size: 30pt;
+    font-family: sans-serif;
+    text-align: center; /* Centralizar o Texto */
+    margin-bottom: 10px;
+}
+
+.card-7 a{
+    color: rgb(165, 255, 251);
+}
+
+.card-7 p{
+     text-align: left;
+}
