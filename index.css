@@ -38,7 +38,7 @@ p {
     max-width: 360px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     background-color: rgba(0, 0, 0, 0.301);
-    min-width: 400px;
+    min-width: 200px;
 }
 
 .card img {
@@ -63,7 +63,7 @@ p {
     max-width: 360px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     background-color: rgba(0, 0, 0, 0.301);
-    min-width: 400px;
+    min-width: 200px;
 }
 
 .card-2 img {
@@ -84,7 +84,7 @@ p {
     max-width: 360px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     background-color: rgba(0, 0, 0, 0.301);
-    min-width: 400px;
+    min-width: 200px;
 }
 
 .card-3 img{
@@ -105,7 +105,7 @@ p {
     max-width: 360px; /* Limita a largura máxima */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     background-color: rgba(0, 0, 0, 0.301);
-    min-width: 400px;
+    min-width: 200px;
 }
 
 .card-5 img{
